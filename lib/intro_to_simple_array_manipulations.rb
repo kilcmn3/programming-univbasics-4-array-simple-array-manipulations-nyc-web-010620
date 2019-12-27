@@ -11,7 +11,7 @@ def using_pop (continents)
 end
 
 def pop_with_args (dog_breeds)
-   dog_breeds.pop[-2]
+   dog_breeds.pop(dog_breeds.last(2))
 end
 
 def using_shift (my_favorite_cities)
