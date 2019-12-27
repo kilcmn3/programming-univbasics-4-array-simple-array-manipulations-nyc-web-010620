@@ -29,3 +29,7 @@ end
 def using_concat(list_of_programming_languages, another_language, new_array)
   list_of_programming_languages.concat(another_language, new_array)
 end
+
+def using_uniq(haircuts, new_array)
+  using_uniq(new_array)
+end
