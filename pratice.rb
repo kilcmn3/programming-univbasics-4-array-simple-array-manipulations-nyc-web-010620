@@ -1,3 +1,3 @@
 array1= ["a","b", "c","d"]
 
-array1[-2]
+puts array1[-2]
